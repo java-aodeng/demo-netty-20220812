@@ -1,0 +1,12 @@
+
+#netty???
+netty:
+  enable: true
+  server:
+    port: 8543
+
+spring:
+  application:
+    name: demo-netty-20220812
+  server:
+    port: 8090
